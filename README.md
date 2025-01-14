@@ -1,12 +1,12 @@
 English | [中文](./README-CN.md)
 
 <p align="center">
-    <a href="https://www.houjit.com/hou-swoole" target="_blank">
+    <a href="https://www.houjit.com/houoole" target="_blank">
         <img src="https://cdn.houjit.com/uploads/20240127/6f8db4afee282863537aa143eb659d0b.png" alt="Houoole" height="200px" />
     </a>
 </p>
 
-# hou-swoole
+# houoole
 
 [![Houoole License](https://poser.pugx.org/hou-swoole/Houoole/license)](LICENSE)
 [![Latest Version](https://img.shields.io/packagist/v/hou-swoole/Houoole.svg)](https://packagist.org/packages/hou-swoole/Houoole)

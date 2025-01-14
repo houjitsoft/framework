@@ -3,9 +3,9 @@
 $header = <<<'EOF'
 This file is part of houjit framework.
 
-@link     https://www.houjit.com/houphp
-@document https://www.houjit.com/houphp
-@license  https://github.com/houjit/framework/blob/master/LICENSE
+@link     https://www.houjit.com/houoole
+@document https://www.houjit.com/houoole
+@license  https://github.com/houjitsoft/framework/blob/master/LICENSE
 EOF;
 
 return PhpCsFixer\Config::create()

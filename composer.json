@@ -1,5 +1,5 @@
 {
-    "name": "houjit/framework",
+    "name": "houoole/framework",
     "description": "A simple, lightweight and high-performance PHP coroutine framework.",
     "type": "library",
     "license": "Apache-2.0",
@@ -12,7 +12,7 @@
     "authors": [
         {
             "name": "Amos",
-            "email": "amos@houjit.com"
+            "email": "kfpt@houjit.com"
         }
     ],
     "require": {
